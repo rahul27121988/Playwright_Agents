@@ -1,0 +1,29 @@
+- generic [ref=e429]:
+  - generic [ref=e430]:
+    - banner [ref=e431]:
+      - generic [ref=e432]:
+        - generic [ref=e433]:
+          - button "Open Menu" [ref=e434] [cursor=pointer]
+          - img "Open Menu" [ref=e435]
+        - generic [ref=e436]: Swag Labs
+        - button "Cart, empty" [ref=e439]
+      - generic [ref=e440]: "Checkout: Complete!"
+    - main [ref=e442]:
+      - img "Pony Express" [ref=e443]
+      - heading "Thank you for your order!" [level=2] [ref=e444]
+      - generic [ref=e445]: Your order has been dispatched, and will arrive just as fast as the pony can get there!
+      - generic [ref=e446]:
+        - button "Back Home" [ref=e447] [cursor=pointer]
+        - button "Generate PDF order" [ref=e448] [cursor=pointer]
+  - contentinfo [ref=e449]:
+    - list [ref=e450]:
+      - listitem [ref=e451]:
+        - link "X" [ref=e452] [cursor=pointer]:
+          - /url: https://x.com/saucelabs
+      - listitem [ref=e453]:
+        - link "Facebook" [ref=e454] [cursor=pointer]:
+          - /url: https://www.facebook.com/saucelabs
+      - listitem [ref=e455]:
+        - link "LinkedIn" [ref=e456] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/sauce-labs/
+    - generic [ref=e457]: © 2026 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy
